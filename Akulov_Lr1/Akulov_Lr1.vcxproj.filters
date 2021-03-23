@@ -18,13 +18,5 @@
     <ClCompile Include="Akulov_Lr1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="RosComNadzor.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="RosComNadzor.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>
